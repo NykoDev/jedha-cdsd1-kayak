@@ -26,7 +26,7 @@ Pipeline de données complet pour recommander les meilleures destinations de voy
 ├── visualisation.ipynb         # Cartes Top-5 villes et Top-20 hôtels
 ├── parse_hotels.ipynb          # Exploration des données hôtels (hors pipeline)
 ├── sql/                        # DDL des tables
-├── capture_db/                 # images tables db et bucket S3
+├── captures/                   # images tables db et bucket S3
 └── outputs/                    # Fichiers locaux (non versionnés)
 ```
 
